@@ -4,6 +4,16 @@ A regression project using an Artificial Neural Network (ANN) built with TensorF
 
 ---
 
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Sequential_API-red?logo=keras)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Train_Test_Split-F7931E?logo=scikit-learn)
+
+---
+
 ## 📌 Problem Statement
 
 Combined cycle power plants combine gas and steam turbines to generate electricity. Their energy output fluctuates with ambient conditions. This project builds an ANN regression model that learns the relationship between environmental variables and power output, enabling more accurate energy planning and optimization.
@@ -90,17 +100,13 @@ jupyter notebook Artificial_Neural_Network.ipynb
 
 ---
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Sequential_API-red?logo=keras)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Handling-150458?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Train_Test_Split-F7931E?logo=scikit-learn)
-
 ---
 
 ## 👤 Author
+ 
+**Samsur**  
+Mechatronics Engineering Student — KUET  
+[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
 
 **Samsur**  
 Mechatronics Engineering Student — KUET  

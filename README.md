@@ -103,10 +103,6 @@ jupyter notebook Artificial_Neural_Network.ipynb
 ---
 
 ## 👤 Author
- 
-**Samsur**  
-Mechatronics Engineering Student — KUET  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
 
 **Samsur**  
 Mechatronics Engineering Student — KUET  
